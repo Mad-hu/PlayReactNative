@@ -8,6 +8,8 @@ react native 项目从无到有，所有依赖使用最近版本，所有配置�
  - npx 高级版本的npm
  - Xcode iOS开发IDE
  - cocoapod iOS包管理工具
+ - Objective-c iOS开发语言
+ - Swift iOS开发语言
  - Android Studio Android开发IDE
  - Command Line Tools Xcode命令行工具
  - gem Ruby包管理工具
