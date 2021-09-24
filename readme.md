@@ -19,10 +19,15 @@
 本篇主要讲解在MacOS平台进行开发iOS应用。包括：
  - 了解Xcode构建工具
  - 使用Xcode构建RN项目
- - 使用iOS模拟器运行RN项目
+ - 使用iOS模拟器、真机运行RN项目
  - ...
 ## 4、玩转React native 之android篇
 本篇主要讲解在MacOS上开发Android应用。包括：
- - 
+ - 了解Android Studio构建工具
+ - 使用Android Studio构建RN项目
+ - 使用Android模拟器、真机运行RN项目
+ - ... 
 ## 5、玩转React native 之app上架
-本篇主要讲解
+本篇主要讲解iOS和Android App上架应用商城
+ - iOS应用上架
+ - Android应用上架
